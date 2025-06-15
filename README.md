@@ -54,7 +54,7 @@ This project helps identify areas for digital improvements in sustainability rep
      ```
 
 5. **Enter in your API Key**:
-   - Type your API Key into line 38 of the pipeline.py file.
+   - Type your API Key into line 38 of the pipeline.py file and line 41 of the utils.py file.
 
 7. **Run the app**:
    ```bash
