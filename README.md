@@ -53,7 +53,10 @@ This project helps identify areas for digital improvements in sustainability rep
      pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
      ```
 
-5. **Run the app**:
+5. **Enter in your API Key**:
+   - Type your API Key into line 38 of the pipeline.py file.
+
+7. **Run the app**:
    ```bash
    streamlit run streamlit_app.py
    ```
